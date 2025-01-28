@@ -1,0 +1,16 @@
+{
+  "name": "name of the mod",
+  "author": "author of the mod",
+  "version": "1.0.0",
+  "change_note": "notes of the changes",
+  "description": "description of the mod",
+  "tags": [
+    "example tag",
+    "example tag 2"
+  ],
+  "image": "thumbnail.png",
+  "info": {
+    "language": "name_of_the_language",
+    "type": "language"
+  }
+}
